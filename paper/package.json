@@ -1,0 +1,7 @@
+{
+  "name": "india-flood-paper",
+  "private": true,
+  "description": "Builds the India flood paper from results/*.json. Author: Vivek Mitra",
+  "license": "AGPL-3.0-only",
+  "dependencies": { "docx": "9.5.1" }
+}

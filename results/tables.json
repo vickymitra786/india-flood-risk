@@ -1,0 +1,11 @@
+{
+ "ifi_events": 6876,
+ "ifi_names": 19735,
+ "ifi_match": 0.8246262984545224,
+ "train_end": 2012,
+ "districts": 641,
+ "districts_populated": 640,
+ "population": 1210854977,
+ "cwc_rows": 2154,
+ "fire_total": 24240.0
+}

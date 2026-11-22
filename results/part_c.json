@@ -1,0 +1,517 @@
+{
+ "states": [
+  {
+   "state": "Bihar",
+   "pop": 104099452,
+   "at_risk": 45309623.6947,
+   "fire_cr": 190.0,
+   "crop_cr": 0.0,
+   "premium_cr": 190.0,
+   "gap": 238471.7037
+  },
+  {
+   "state": "Manipur",
+   "pop": 2855794,
+   "at_risk": 495057.6238,
+   "fire_cr": 5.0,
+   "crop_cr": 0.9467,
+   "premium_cr": 5.9467,
+   "gap": 83249.6004
+  },
+  {
+   "state": "Kerala",
+   "pop": 33406061,
+   "at_risk": 21746868.1531,
+   "fire_cr": 300.0,
+   "crop_cr": 85.8433,
+   "premium_cr": 385.8433,
+   "gap": 56361.9124
+  },
+  {
+   "state": "Assam",
+   "pop": 31205576,
+   "at_risk": 20549307.453,
+   "fire_cr": 192.0,
+   "crop_cr": 218.72,
+   "premium_cr": 410.72,
+   "gap": 50032.4003
+  },
+  {
+   "state": "Tripura",
+   "pop": 3673917,
+   "at_risk": 1172165.395,
+   "fire_cr": 22.0,
+   "crop_cr": 6.3533,
+   "premium_cr": 28.3533,
+   "gap": 41341.3612
+  },
+  {
+   "state": "West Bengal",
+   "pop": 91276115,
+   "at_risk": 26585241.3925,
+   "fire_cr": 959.0,
+   "crop_cr": 0.0,
+   "premium_cr": 959.0,
+   "gap": 27721.8367
+  },
+  {
+   "state": "Mizoram",
+   "pop": 1097206,
+   "at_risk": 153967.6672,
+   "fire_cr": 6.0,
+   "crop_cr": 0.0,
+   "premium_cr": 6.0,
+   "gap": 25661.2779
+  },
+  {
+   "state": "Punjab",
+   "pop": 27743338,
+   "at_risk": 10445093.739,
+   "fire_cr": 434.0,
+   "crop_cr": 0.0,
+   "premium_cr": 434.0,
+   "gap": 24067.0363
+  },
+  {
+   "state": "Nagaland",
+   "pop": 1978502,
+   "at_risk": 118575.3568,
+   "fire_cr": 5.0,
+   "crop_cr": 0.0,
+   "premium_cr": 5.0,
+   "gap": 23715.0714
+  },
+  {
+   "state": "Uttar Pradesh",
+   "pop": 199812341,
+   "at_risk": 58182899.622,
+   "fire_cr": 1159.0,
+   "crop_cr": 1349.9533,
+   "premium_cr": 2508.9533,
+   "gap": 23190.1083
+  },
+  {
+   "state": "Jammu & Kashmir",
+   "pop": 12541302,
+   "at_risk": 3181236.2241,
+   "fire_cr": 198.0,
+   "crop_cr": 13.3467,
+   "premium_cr": 211.3467,
+   "gap": 15052.2186
+  },
+  {
+   "state": "Meghalaya",
+   "pop": 2966889,
+   "at_risk": 442363.5297,
+   "fire_cr": 30.0,
+   "crop_cr": 0.0433,
+   "premium_cr": 30.0433,
+   "gap": 14724.1827
+  },
+  {
+   "state": "Jharkhand",
+   "pop": 32988134,
+   "at_risk": 3008526.1669,
+   "fire_cr": 111.0,
+   "crop_cr": 118.64,
+   "premium_cr": 229.64,
+   "gap": 13101.0546
+  },
+  {
+   "state": "Arunachal Pradesh",
+   "pop": 1383727,
+   "at_risk": 443096.6935,
+   "fire_cr": 34.0,
+   "crop_cr": 0.0,
+   "premium_cr": 34.0,
+   "gap": 13032.2557
+  },
+  {
+   "state": "Himachal Pradesh",
+   "pop": 6864602,
+   "at_risk": 4207478.69,
+   "fire_cr": 229.0,
+   "crop_cr": 94.1,
+   "premium_cr": 323.1,
+   "gap": 13022.2182
+  },
+  {
+   "state": "Andhra Pradesh",
+   "pop": 84580777,
+   "at_risk": 18893672.8912,
+   "fire_cr": 1665.0,
+   "crop_cr": 785.1633,
+   "premium_cr": 2450.1633,
+   "gap": 7711.1891
+  },
+  {
+   "state": "Odisha",
+   "pop": 41974218,
+   "at_risk": 12768654.419,
+   "fire_cr": 394.0,
+   "crop_cr": 1619.1167,
+   "premium_cr": 2013.1167,
+   "gap": 6342.7295
+  },
+  {
+   "state": "Gujarat",
+   "pop": 60439692,
+   "at_risk": 22159471.7357,
+   "fire_cr": 2977.0,
+   "crop_cr": 1204.9967,
+   "premium_cr": 4181.9967,
+   "gap": 5298.778
+  },
+  {
+   "state": "Uttarakhand",
+   "pop": 10086292,
+   "at_risk": 1841085.0471,
+   "fire_cr": 212.0,
+   "crop_cr": 159.4033,
+   "premium_cr": 371.4033,
+   "gap": 4957.1043
+  },
+  {
+   "state": "Andaman & Nicobar",
+   "pop": 380581,
+   "at_risk": 20160.5995,
+   "fire_cr": 4.0,
+   "crop_cr": 0.14,
+   "premium_cr": 4.14,
+   "gap": 4869.71
+  },
+  {
+   "state": "Maharashtra",
+   "pop": 112374333,
+   "at_risk": 53332811.144,
+   "fire_cr": 6559.0,
+   "crop_cr": 6250.9467,
+   "premium_cr": 12809.9467,
+   "gap": 4163.3906
+  },
+  {
+   "state": "Chandigarh",
+   "pop": 1055450,
+   "at_risk": 284666.5614,
+   "fire_cr": 71.0,
+   "crop_cr": 0.0,
+   "premium_cr": 71.0,
+   "gap": 4009.3882
+  },
+  {
+   "state": "Rajasthan",
+   "pop": 68548437,
+   "at_risk": 22811768.1957,
+   "fire_cr": 602.0,
+   "crop_cr": 5803.6233,
+   "premium_cr": 6405.6233,
+   "gap": 3561.2097
+  },
+  {
+   "state": "Goa",
+   "pop": 1458545,
+   "at_risk": 226850.2385,
+   "fire_cr": 64.0,
+   "crop_cr": 0.02,
+   "premium_cr": 64.02,
+   "gap": 3543.4277
+  },
+  {
+   "state": "Madhya Pradesh",
+   "pop": 72626809,
+   "at_risk": 18257574.7523,
+   "fire_cr": 472.0,
+   "crop_cr": 5962.1767,
+   "premium_cr": 6434.1767,
+   "gap": 2837.593
+  },
+  {
+   "state": "Haryana",
+   "pop": 25351462,
+   "at_risk": 6657617.179,
+   "fire_cr": 1493.0,
+   "crop_cr": 1264.59,
+   "premium_cr": 2757.59,
+   "gap": 2414.2883
+  },
+  {
+   "state": "Karnataka",
+   "pop": 61095297,
+   "at_risk": 7745125.264,
+   "fire_cr": 1590.0,
+   "crop_cr": 2199.26,
+   "premium_cr": 3789.26,
+   "gap": 2043.9678
+  },
+  {
+   "state": "Delhi",
+   "pop": 16787941,
+   "at_risk": 3572257.6172,
+   "fire_cr": 2030.0,
+   "crop_cr": 0.0,
+   "premium_cr": 2030.0,
+   "gap": 1759.7328
+  },
+  {
+   "state": "Chhattisgarh",
+   "pop": 25545198,
+   "at_risk": 2716462.6406,
+   "fire_cr": 206.0,
+   "crop_cr": 1386.58,
+   "premium_cr": 1592.58,
+   "gap": 1705.6993
+  },
+  {
+   "state": "Puducherry",
+   "pop": 1247953,
+   "at_risk": 38364.1543,
+   "fire_cr": 23.0,
+   "crop_cr": 5.1533,
+   "premium_cr": 28.1533,
+   "gap": 1362.686
+  },
+  {
+   "state": "Sikkim",
+   "pop": 610577,
+   "at_risk": 17534.4152,
+   "fire_cr": 14.0,
+   "crop_cr": 0.0333,
+   "premium_cr": 14.0333,
+   "gap": 1249.4833
+  },
+  {
+   "state": "Tamil Nadu",
+   "pop": 72147030,
+   "at_risk": 3927349.3381,
+   "fire_cr": 1912.0,
+   "crop_cr": 2687.67,
+   "premium_cr": 4599.67,
+   "gap": 853.8328
+  },
+  {
+   "state": "Daman & Diu",
+   "pop": 243247,
+   "at_risk": 4347.1586,
+   "fire_cr": 9.0,
+   "crop_cr": 0.0,
+   "premium_cr": 9.0,
+   "gap": 483.0176
+  },
+  {
+   "state": "Dadra & Nagar Haveli",
+   "pop": 343709,
+   "at_risk": 6265.33,
+   "fire_cr": 69.0,
+   "crop_cr": 0.0,
+   "premium_cr": 69.0,
+   "gap": 90.8019
+  }
+ ],
+ "top20_districts": [
+  {
+   "id": 290,
+   "district": "Katihar",
+   "state": "Bihar",
+   "pop": 3071029,
+   "p_mean": 0.6658,
+   "at_risk": 2044654.0823,
+   "premium_cr": 5.6052,
+   "gap": 364779.7898
+  },
+  {
+   "id": 432,
+   "district": "Pashchim Champaran",
+   "state": "Bihar",
+   "pop": 3935042,
+   "p_mean": 0.6633,
+   "at_risk": 2610228.7755,
+   "premium_cr": 7.1822,
+   "gap": 363432.7358
+  },
+  {
+   "id": 132,
+   "district": "Darbhanga",
+   "state": "Bihar",
+   "pop": 3937385,
+   "p_mean": 0.646,
+   "at_risk": 2543623.221,
+   "premium_cr": 7.1864,
+   "gap": 353948.2268
+  },
+  {
+   "id": 438,
+   "district": "Patna",
+   "state": "Bihar",
+   "pop": 5838465,
+   "p_mean": 0.6173,
+   "at_risk": 3604214.6055,
+   "premium_cr": 10.6562,
+   "gap": 338225.8552
+  },
+  {
+   "id": 348,
+   "district": "Madhubani",
+   "state": "Bihar",
+   "pop": 4487379,
+   "p_mean": 0.6162,
+   "at_risk": 2765147.0511,
+   "premium_cr": 8.1903,
+   "gap": 337613.9035
+  },
+  {
+   "id": 386,
+   "district": "Muzaffarpur",
+   "state": "Bihar",
+   "pop": 4801062,
+   "p_mean": 0.6029,
+   "at_risk": 2894540.5845,
+   "premium_cr": 8.7628,
+   "gap": 330321.7503
+  },
+  {
+   "id": 490,
+   "district": "Saharsa",
+   "state": "Bihar",
+   "pop": 1900661,
+   "p_mean": 0.5861,
+   "at_risk": 1113930.6583,
+   "premium_cr": 3.469,
+   "gap": 321105.9374
+  },
+  {
+   "id": 532,
+   "district": "Sitamarhi",
+   "state": "Bihar",
+   "pop": 3423574,
+   "p_mean": 0.571,
+   "at_risk": 1955010.2329,
+   "premium_cr": 6.2486,
+   "gap": 312870.1697
+  },
+  {
+   "id": 205,
+   "district": "Gopalganj",
+   "state": "Bihar",
+   "pop": 2562012,
+   "p_mean": 0.5672,
+   "at_risk": 1453108.5894,
+   "premium_cr": 4.6761,
+   "gap": 310750.4403
+  },
+  {
+   "id": 295,
+   "district": "Khagaria",
+   "state": "Bihar",
+   "pop": 1666886,
+   "p_mean": 0.5559,
+   "at_risk": 926558.221,
+   "premium_cr": 3.0424,
+   "gap": 304552.1411
+  },
+  {
+   "id": 495,
+   "district": "Samastipur",
+   "state": "Bihar",
+   "pop": 4261566,
+   "p_mean": 0.504,
+   "at_risk": 2147698.8194,
+   "premium_cr": 7.7781,
+   "gap": 276120.723
+  },
+  {
+   "id": 64,
+   "district": "Begusarai",
+   "state": "Bihar",
+   "pop": 2970541,
+   "p_mean": 0.4914,
+   "at_risk": 1459665.1961,
+   "premium_cr": 5.4218,
+   "gap": 269223.2386
+  },
+  {
+   "id": 69,
+   "district": "Bhagalpur",
+   "state": "Bihar",
+   "pop": 3037766,
+   "p_mean": 0.4722,
+   "at_risk": 1434442.9693,
+   "premium_cr": 5.5445,
+   "gap": 258716.3119
+  },
+  {
+   "id": 456,
+   "district": "Purnia",
+   "state": "Bihar",
+   "pop": 3264619,
+   "p_mean": 0.4629,
+   "at_risk": 1511049.3669,
+   "premium_cr": 5.9585,
+   "gap": 253595.1782
+  },
+  {
+   "id": 598,
+   "district": "Vaishali",
+   "state": "Bihar",
+   "pop": 3495021,
+   "p_mean": 0.4495,
+   "at_risk": 1570997.5718,
+   "premium_cr": 6.379,
+   "gap": 246275.1354
+  },
+  {
+   "id": 77,
+   "district": "Bhojpur",
+   "state": "Bihar",
+   "pop": 2728407,
+   "p_mean": 0.4407,
+   "at_risk": 1202443.2077,
+   "premium_cr": 4.9798,
+   "gap": 241462.8158
+  },
+  {
+   "id": 535,
+   "district": "Siwan",
+   "state": "Bihar",
+   "pop": 3330464,
+   "p_mean": 0.4331,
+   "at_risk": 1442323.0047,
+   "premium_cr": 6.0787,
+   "gap": 237275.3536
+  },
+  {
+   "id": 383,
+   "district": "Munger",
+   "state": "Bihar",
+   "pop": 1367765,
+   "p_mean": 0.4246,
+   "at_risk": 580809.9341,
+   "premium_cr": 2.4964,
+   "gap": 232657.6794
+  },
+  {
+   "id": 347,
+   "district": "Madhepura",
+   "state": "Bihar",
+   "pop": 2001762,
+   "p_mean": 0.4075,
+   "at_risk": 815775.9694,
+   "premium_cr": 3.6536,
+   "gap": 223281.7924
+  },
+  {
+   "id": 553,
+   "district": "Supaul",
+   "state": "Bihar",
+   "pop": 2229076,
+   "p_mean": 0.3925,
+   "at_risk": 874995.663,
+   "premium_cr": 4.0685,
+   "gap": 215068.0349
+  }
+ ],
+ "national": {
+  "at_risk": 371323540.08274597,
+  "premium_cr": 55456.82000000001,
+  "gap": 6695.723629352457
+ }
+}

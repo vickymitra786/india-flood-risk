@@ -1,0 +1,8 @@
+.venv/
+data/
+node_modules/
+__pycache__/
+CLAUDE.md
+.claude/
+paper/build/
+site_data/

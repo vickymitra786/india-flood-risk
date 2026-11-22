@@ -1,0 +1,53 @@
+PUBLISH PLAN: "Flood risk, crop-insurance claims and the protection gap in India: an integrated district-level model on public data"
+Author: Vivek Mitra, Independent researcher, vivekmitra.com
+Files: paper/india_flood.docx, paper/india_flood.pdf (website copy: site/papers/india-flood.pdf)
+
+Nothing has been submitted or uploaded. These are the options and the checks to do first.
+
+1. WHERE TO SEND IT (fastest first)
+
+a) Zenodo (free, gives a DOI within minutes)
+   - Upload the PDF as a "Preprint" and, separately, a tagged release of github.com/vickymitra786/india-flood-risk
+     through Zenodo's GitHub integration. That gives one DOI for the paper and one for the code.
+   - Licence: CC BY 4.0 for the paper text. The code stays GNU AGPL-3.0.
+   - Do not upload any input data. The India Flood Inventory is CC BY-NC 4.0, and get_data.py downloads every input.
+
+b) arXiv preprint
+   - Category: stat.AP (Applications) as primary; cross-list physics.ao-ph (atmospheric and oceanic physics)
+     or q-fin.RM (risk management).
+   - First-time submitters in a category may need an endorsement.
+
+c) SSRN (read by insurance and risk practitioners)
+   - Insurance and risk-management eJournals. JEL codes: G22 (Insurance), Q54 (Climate; natural disasters),
+     C25 (discrete regression models), Q14 (agricultural finance).
+
+d) India-focused venues (check each venue's current call and format before sending)
+   - Institute of Actuaries of India: the Global Conference of Actuaries (a paper or poster), and the
+     "Actuary India" magazine for a shorter practitioner version.
+   - Insurance Institute of India: its journal, for a practitioner version of Parts B and C.
+   - National Insurance Academy, Pune: research conferences on general and crop insurance.
+   - IRDAI-related forums: IRDAI publishes its own reports and does not take outside papers. A short policy note
+     on the protection gap (Part C) could be offered to an industry body such as the General Insurance Council.
+
+e) Peer-reviewed journals (longer term)
+   - Natural Hazards, the International Journal of Disaster Risk Reduction, or Climate Risk Management.
+   - These will expect more depth, such as flood extent from satellite data and district-level claims if they
+     become public.
+
+2. BEFORE ANY SUBMISSION: CHECKLIST
+   [ ] Fresh clone: run `python get_data.py` then `python run_all.py` and confirm results/*.json are unchanged
+       and check_paper.py passes.
+   [ ] Push the code to github.com/vickymitra786/india-flood-risk (public) and check the link in Section 7.
+   [ ] Add the Zenodo DOI(s) to the Reproducibility section and rebuild.
+   [ ] Check that every reference resolves (DOIs and URLs) and that the reference style matches the venue.
+   [ ] Data licences: the India Flood Inventory is CC BY-NC 4.0, so describe the work as non-commercial research.
+       Ask its authors before any commercial use. DataMeet maps are CC BY 4.0: keep the attribution.
+   [ ] Maps: every figure must show India's official boundaries (the DataMeet India composite outline is used).
+       Check the figure again if the map code changes.
+   [ ] Do not name or criticise any individual insurer. The paper uses only state and industry totals.
+   [ ] Confirm the author line on every copy: "Vivek Mitra, Independent researcher, vivekmitra.com".
+   [ ] Funding and conflicts: "No funding. No competing interests." (already in the paper)
+   [ ] For venues with templates, move the text into their template. The numbers come from results/*.json.
+
+3. REBUILD AFTER ANY CHANGE
+   python run_all.py   # results, website data, README table, figures, .docx, .pdf, and both checks
